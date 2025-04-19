@@ -310,7 +310,8 @@
       "Fire Eel": {
         "chat_message": "§aA Fire Eel slithers out from the depths.",
         "fishing_experience": 2200,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "rare": true
       },
       "Lava Leech": {
         "chat_message": "§aA small but fearsome Lava Leech emerges.",
